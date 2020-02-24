@@ -22,4 +22,3 @@
  7. Staircase problem
  8. Sudoku solver
  9. Fibonacci using fast exponentiation
- (and more)
